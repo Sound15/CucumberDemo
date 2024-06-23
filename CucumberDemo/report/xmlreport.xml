@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.218" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Explaining Hooks" name="Hook scenario Explanation" time="0.025">
+<system-out><![CDATA[
+Given Thanos has the Infinity stones........................................passed
+When Thanos snaps his fingers...............................................passed
+Then half of the living things died.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
